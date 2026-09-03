@@ -34,25 +34,5 @@ I started university deep in digital hardware - FPGA design, VLSI, computer arch
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terbz98&show_icons=true&hide_border=true&theme=default)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Terbz98&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
-## Connect with me
-
 - **Email** — [stevenha98@gmail.com](mailto:stevenha98@gmail.com)
 - **LinkedIn** — [Immanuel Steven Ha Hanes](https://www.linkedin.com/in/immanuel-steven-ha-hanes-254288270/)
-
----
-
-<div align="center">
-<i>I like building things and figuring out how they work.</i>
-</div>
